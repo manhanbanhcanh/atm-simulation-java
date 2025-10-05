@@ -1,0 +1,11 @@
+1. Open Command Prompt or any Java IDE (e.g., IntelliJ, VS Code, BlueJ).
+2. Navigate to the src folder.
+3. Compile the code:
+   javac ATMSimulation.java
+4. Run the program:
+   java ATMSimulation
+5. Use the menu to:
+   - Check your balance
+   - Deposit money
+   - Withdraw money
+   - Exit
